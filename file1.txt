@@ -1,2 +1,3 @@
 file1
 new line in master
+new line in branch1
